@@ -52,7 +52,7 @@ If you have any problems, check `languagePatcherLog.txt` or create an issue.
    - Якщо ви використовуєте [WUMPatch](https://github.com/heatray/WUMPatch):  
      Скопіюйте `Bundl03.xom` у `WormsXHD\Data2\Bundl03.xom`
    - Якщо не використовуєте [WUMPatch](https://github.com/heatray/WUMPatch):  
-     **Зробіть резервну копію** файлу `WormsXHD\Data\Bundles\Bundl03.xom`  
+     **ОБОВ'язково Зробіть резервну копію** файлу `WormsXHD\Data\Bundles\Bundl03.xom`  
      Скопіюйте `Bundl03.xom` у `WormsXHD\Data\Bundles\Bundl03.xom` (заміна)
 
 4. **Встановіть українську мову:**
