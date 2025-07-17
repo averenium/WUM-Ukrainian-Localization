@@ -24,7 +24,8 @@
 
 4. **Set language to Ukrainian:**
    - Drag & drop `WormsXHD\WormsMayhem.exe` to `AveUMHLanguagePatcher.exe`  
-     (or copy `AveUMHLanguagePatcher.exe` to `WormsXHD` and run via console:  
+     (for simplify - you can copy `AveUMHLanguagePatcher.exe` to `WormsXHD` and drag&drop in folder
+     or run via console:  
      `AveUMHLanguagePatcher.exe {Path to WormsXHD\WormsMayhem.exe}`)
 
 `AveUMHLanguagePatcher.exe` also saves a backup of the original exe file to `backups/{date}/WormsMayhem.exe`.  
@@ -56,7 +57,8 @@ If you have any problems, check `languagePatcherLog.txt` or create an issue.
 
 4. **Встановіть українську мову:**
    - Перетягніть `WormsXHD\WormsMayhem.exe` на `AveUMHLanguagePatcher.exe`  
-     (або скопіюйте `AveUMHLanguagePatcher.exe` у папку `WormsXHD` і запустіть через консоль:  
+     (Для спрощення можно скопіювати `AveUMHLanguagePatcher.exe` у папку `WormsXHD` і перетягнути exe в середині папки,
+     або можна запустити через консоль:  
      `AveUMHLanguagePatcher.exe {Шлях до WormsXHD\WormsMayhem.exe}`)
 
 `AveUMHLanguagePatcher.exe` також зберігає резервну копію оригінального exe-файлу у `backups/{date}/WormsMayhem.exe`.  
