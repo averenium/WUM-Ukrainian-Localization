@@ -65,3 +65,6 @@ If you have any problems, check `languagePatcherLog.txt` or create an issue.
 
 # Розробка та компіляція
 WIP
+
+Для перекладу та оновлення файлів я використовую власну тулзу (поки без викладання) на даний момент вона на дуже "ранній стадії розробки"  
+Для пакування та депакування XOM - [Xom2Xml](https://github.com/AlexBond2/Xom2Xml)
